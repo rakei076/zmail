@@ -10,7 +10,7 @@ compatibility_date = "2025-03-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "mailtest123"
-database_id = "da382f1a-f06a-4eb3-9480-54942bfad016"  # 需要替换为您的实际数据库 ID
+database_id = "d9380e85-603c-4a90-a040-ec42feff85c3"  # 需要替换为您的实际数据库 ID
 
 # 配置邮件处理
 [triggers]
